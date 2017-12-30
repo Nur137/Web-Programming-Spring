@@ -1,0 +1,8 @@
+com\mycompany\pathshala\test\TestUserDAOFindByProperty.class
+com\mycompany\pathshala\test\TestDataSource.class
+com\mycompany\pathshala\test\TestUserDAOUpdate.class
+com\mycompany\pathshala\test\TestUserDAOFindALL.class
+com\mycompany\pathshala\test\TestUserDAODelete.class
+com\mycompany\pathshala\test\TestUserDAOFindSingleRecord.class
+com\mycompany\pathshala\test\TestUserDAO.class
+com\mycompany\pathshala\test\TestUserServiceReg.class
